@@ -9,8 +9,33 @@ header {
     background-color: #6DBB8F;
 }
 
+.recipe-nav:hover > .recipe-sub-nav {
+  visibility: visible;
+  opacity: 1;
+}
+
+.recipe-sub-nav {
+  list-style-type: none;
+  position: absolute;
+  text-decoration: none;
+}
+
+.recipe-sub-nav:hover {
+  background-color: white;
+}
+
+
+
+.recipe-sub-nav > li > a {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: black;
+}
+
+
 main {
     background-color: #DA6A00;
+    height: 70ch;
 }
 
 footer {
