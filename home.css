@@ -1,0 +1,18 @@
+:root {
+    --main-bg-color: #DA6A00;
+    --secondary-bg-color: #6DBB8F;
+    --icons-colors: #2a6ee5;
+    
+    }
+
+header {
+    background-color: #6DBB8F;
+}
+
+main {
+    background-color: #DA6A00;
+}
+
+footer {
+    background-color: #6DBB8F;
+}
