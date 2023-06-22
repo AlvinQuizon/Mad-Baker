@@ -3,6 +3,9 @@
   --secondary-bg-color: #6DBB8F;
   --icons-colors: #2a6ee5;
 }
+body {
+  position: relative;
+}
 
 header {
 background-color: #6DBB8F;
@@ -18,8 +21,7 @@ background-color: #6DBB8F;
 }
 
 main {
-    background-color: #DA6A00;
-    height: 70ch;
+    background-color: transparent;
     margin: 0;
     padding: 0;
 }
