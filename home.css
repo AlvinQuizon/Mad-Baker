@@ -1,37 +1,21 @@
 :root {
-    --main-bg-color: #DA6A00;
-    --secondary-bg-color: #6DBB8F;
-    --icons-colors: #2a6ee5;
-    
-    }
+  --main-bg-color: #DA6A00;
+  --secondary-bg-color: #6DBB8F;
+  --icons-colors: #2a6ee5;
+}
 
 header {
-    background-color: #6DBB8F;
+background-color: #6DBB8F;
 }
 
-.recipe-nav:hover > .recipe-sub-nav {
-  visibility: visible;
-  opacity: 1;
+.dropdown-menu {
+ background: transparent;
+ border: 0;
 }
 
-.recipe-sub-nav {
-  list-style-type: none;
-  position: absolute;
-  text-decoration: none;
+.dropdown-menu-light:hover d{
+  background-color: transparent;
 }
-
-.recipe-sub-nav:hover {
-  background-color: white;
-}
-
-
-
-.recipe-sub-nav > li > a {
-  text-decoration: none;
-  text-transform: uppercase;
-  color: black;
-}
-
 
 main {
     background-color: #DA6A00;
@@ -41,3 +25,5 @@ main {
 footer {
     background-color: #6DBB8F;
 }
+
+
