@@ -26,6 +26,14 @@ main {
     padding: 0;
 }
 
+.car-bg {
+  background: #FDD8D8;
+}
+
+.btn-color {
+  background: #D50B0B;
+}
+
 footer {
     background-color: #6DBB8F;
 }
