@@ -11,6 +11,10 @@ header {
 background-color: #6DBB8F;
 }
 
+.browse-recipe {
+  height: 30vh;
+}
+
 .dropdown-menu {
  background: transparent;
  border: 0;
@@ -35,7 +39,6 @@ main {
   background: #D50B0B;
 }
 /* index.html css changes - end */
-
 
 footer {
     background-color: #6DBB8F;
