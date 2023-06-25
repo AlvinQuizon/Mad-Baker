@@ -60,7 +60,7 @@ footer {
 }
 
 .gmail {
-  color: var(--icons-colors);
+  color: #FFD2C5;
 }
 
 .gmail:hover {
@@ -76,5 +76,5 @@ footer {
 }
 
 .fa-brands {
-  color: var(--icons-colors);
+  color: #FFD2C5;
 }
