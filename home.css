@@ -18,10 +18,6 @@ header {
   background-color: var(--secondary-bg-color);
 }
 
-/* .browse-recipe {
-  height: 30vh;
-} */
-
 .dropdown-menu {
   background: transparent;
   border: 0;
@@ -49,6 +45,10 @@ main {
 
 footer {
   background-color: var(--secondary-bg-color);
+}
+
+.gmail {
+  color: var(--icons-colors);
 }
 
 .fa-brands {
