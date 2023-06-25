@@ -18,9 +18,9 @@ header {
   background-color: var(--secondary-bg-color);
 }
 
-.browse-recipe {
+/* .browse-recipe {
   height: 30vh;
-}
+} */
 
 .dropdown-menu {
   background: transparent;
