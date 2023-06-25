@@ -1,7 +1,7 @@
 :root {
-  --main-bg-color: #DA6A00;
-  --secondary-bg-color: #6DBB8F;
-  --icons-colors: #2a6ee5;
+  --main-bg-color: #e8d8d8;
+  --secondary-bg-color: #C39898;
+  --icons-colors: #331E1E;
 }
 
 * {
@@ -15,7 +15,7 @@ body {
 }
 
 header {
-background-color: #6DBB8F;
+background-color: var(--secondary-bg-color);
 }
 
 .browse-recipe {
@@ -48,7 +48,11 @@ main {
 /* index.html css changes - end */
 
 footer {
-    background-color: #6DBB8F;
+    background-color: var(--secondary-bg-color);
 }
+
+/* .fa-brands {
+  color: var(--icons-colors);
+} */
 
 
