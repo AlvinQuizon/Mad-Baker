@@ -15,7 +15,7 @@ body {
 }
 
 header {
-background-color: var(--secondary-bg-color);
+  background-color: var(--secondary-bg-color);
 }
 
 .browse-recipe {
@@ -23,8 +23,8 @@ background-color: var(--secondary-bg-color);
 }
 
 .dropdown-menu {
- background: transparent;
- border: 0;
+  background: transparent;
+  border: 0;
 }
 
 .dropdown-menu-light:hover d{
@@ -48,11 +48,11 @@ main {
 /* index.html css changes - end */
 
 footer {
-    background-color: var(--secondary-bg-color);
+  background-color: var(--secondary-bg-color);
 }
 
-/* .fa-brands {
+.fa-brands {
   color: var(--icons-colors);
-} */
+}
 
 
