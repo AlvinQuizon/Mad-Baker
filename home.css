@@ -51,6 +51,18 @@ footer {
   color: var(--icons-colors);
 }
 
+.gmail:hover {
+  color: white;
+}
+
+.gmail-2 {
+  color: var(--icons-colors);
+}
+
+.gmail-2:hover {
+  color: var(--secondary-bg-color);
+}
+
 .fa-brands {
   color: var(--icons-colors);
 }
